@@ -5,25 +5,25 @@ you can vote on any movie but after login.
 this contains two types of users admin and normal users, admin can perform task like create new polls, create users , delete polls ans delete users.
 normal users can vote after login.
 
-Running this app follow this simple steps.
-just go window powershell and type this commond
-1. for installing pyhton -- go to https://www.python.org/
-and download setup and install after install -- you can check install verison from window power shell --
-you can check how to install python throw this link -- https://www.youtube.com/watch?v=dX2-V2BocqQ
+Running this app follow these simple steps.
+just go to window powershell and type this command
+1. for installing python -- go to https://www.python.org/
+and download setup and install, after install -- you can check install version from window power shell --
+you can check how to install python through this link -- https://www.youtube.com/watch?v=dX2-V2BocqQ
 
-commonds -- python --version
+commands -- python --version
 than install flask.
 
 2. easy_install flask    -- for installing pyhton
 
 after install successfully 
 then enter
-1. go to path which your project folder contain using cd commonds like
+1. go to path which your project folder contain using cd commands like
 
-like going for deskto -- 
-cd de press tabs
+like going for desktop -- 
+cd de then press tabs
 
-if you set path -- then type this commond for running app
+if you set path -- then type this command for running app
 1. python database  -- inti for database
 2. python poll.py 
 3. flask run
@@ -31,7 +31,7 @@ if you set path -- then type this commond for running app
 than paste this url on your browser --- http://localhost:3030/
 
 
-Lounch application on heroku
+Launch application on heroku
 1. go to heroku website
 2. create account and login
 3. chose pyhton 
